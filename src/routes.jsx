@@ -2,17 +2,17 @@ import { Home, Profile, SignIn, SignUp } from "@/pages";
 
 export const routes = [
   {
-    name: "home",
+    name: "Inicio",
     path: "/home",
     element: <Home />,
   },
   {
-    name: "profile",
+    name: "Contacto",
     path: "/profile",
     element: <Profile />,
   },
   {
-    name: "Sign In",
+    name: "Nosotros",
     path: "/sign-in",
     element: <SignIn />,
   },

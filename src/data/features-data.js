@@ -5,24 +5,24 @@ import {
 export const featuresData = [
   {
     color: "gray",
-    title: "Awarded Agency",
+    title: "Consultoría Tecnológica",
     icon: ChatBubbleBottomCenterTextIcon,
     description:
-      "Divide details about your product or agency work into parts. A paragraph describing a feature will be enough.",
+      "Nuestros consultores te guiarán a través del complejo mundo de la tecnología, ayudándote a identificar las soluciones más adecuadas para tu negocio. Desde la planificación estratégica hasta la implementación, estamos contigo en cada paso del camino.",
   },
   {
     color: "gray",
-    title: "Free Revisions",
+    title: "Desarrollo de Aplicaciones Móviles",
     icon: ChatBubbleBottomCenterTextIcon,
     description:
-      "Keep you user engaged by providing meaningful information. Remember that by this time, the user is curious.",
+      "Nos especializamos en el desarrollo de aplicaciones móviles innovadoras y de alta calidad que transforman ideas en experiencias digitales excepcionales. Con un enfoque centrado en el usuario y utilizando las últimas tecnologías, creamos aplicaciones que no solo cumplen con tus requisitos, sino que también superan las expectativas de tus usuarios finales.",
   },
   {
     color: "gray",
-    title: "Verified Company",
+    title: "Desarrollo de Páginas Web",
     icon: ChatBubbleBottomCenterTextIcon,
     description:
-      "Write a few lines about each one. A paragraph describing a feature will be enough. Keep you user engaged!",
+      "Transformamos tus ideas en experiencias digitales impresionantes a través de nuestro servicio de desarrollo de páginas web. Nos especializamos en crear sitios web atractivos, funcionales y optimizados que impulsan el éxito de tu negocio en el entorno digital.",
   },
 ];
 

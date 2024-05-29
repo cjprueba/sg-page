@@ -1,16 +1,16 @@
-# [Material Tailwind Kit React](http://demos.creative-tim.com/material-tailwind-kit-react/#/?ref=readme-mtkr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-tailwind-kit-react&text=Check%20Material%20Tailwind%20Kit%20React%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#react%20#materialtailwind%20#tailwindcss%20https://www.creative-tim.com/product/material-tailwind-kit-react)
+# [Service Group Kit React](http://demos.creative-tim.com/material-tailwind-kit-react/#/?ref=readme-mtkr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-tailwind-kit-react&text=Check%20Material%20Tailwind%20Kit%20React%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#react%20#materialtailwind%20#tailwindcss%20https://www.creative-tim.com/product/material-tailwind-kit-react)
 
 ![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-tailwind-kit-react.svg)](https://github.com/creativetimofficial/material-tailwind-kit-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-tailwind-kit-react.svg)](https://github.com/creativetimofficial/material-tailwind-kit-react/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/486/original/material-tailwind-kit-react.jpg)
 
-Material Tailwind Kit React is our newest free Material Tailwind UI Kit based on Tailwind CSS and React. If you’re a developer looking to create an ui kit that is developer-friendly, rich with features, and highly customisable, here is your match. Our innovative Material Tailwind, Tailwind CSS & React ui kit comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
+Service Group Kit React is our newest free Service Group UI Kit based on Tailwind CSS and React. If you’re a developer looking to create an ui kit that is developer-friendly, rich with features, and highly customisable, here is your match. Our innovative Service Group, Tailwind CSS & React ui kit comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
 
 **Fully Coded Elements**
 
-Material Tailwind Kit React is built with over 40 frontend individual elements coming from @material-tailwind/react, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using props and tailwind css classnames. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
+Service Group Kit React is built with over 40 frontend individual elements coming from @material-tailwind/react, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using props and tailwind css classnames. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 
-This free Material Tailwind, Tailwind CSS & React UI Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+This free Service Group, Tailwind CSS & React UI Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
 View [all components here](https://www.material-tailwind.com/docs/react/button).
 
@@ -35,9 +35,9 @@ View [example pages here](https://demos.creative-tim.com/material-tailwind-kit-r
 
 During the development of this ui kit, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
-- [Material Tailwind](https://material-tailwind.com/) - Material Tailwind is an easy to use components library for Tailwind CSS and Material Design.
+- [Service Group](https://material-tailwind.com/) - Service Group is an easy to use components library for Tailwind CSS and Material Design.
 - [Hero Icons](https://heroicons.com/) - Beautiful hand-crafted SVG icons.
-- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Tailwind Kit React. You can use it to gain insights into your sources of traffic.
+- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Service Group Kit React. You can use it to gain insights into your sources of traffic.
 
 Let us know your thoughts below. And good luck with development!
 
@@ -62,7 +62,7 @@ Let us know your thoughts below. And good luck with development!
 | React |
 | ----- |
 
-| [![Material Tailwind Kit React](https://s3.amazonaws.com/creativetim_bucket/products/486/thumb/material-tailwind-kit-react.jpg)](http://demos.creative-tim.com/material-tailwind-kit-react/#/?ref=readme-mtkr)
+| [![Service Group Kit React](https://s3.amazonaws.com/creativetim_bucket/products/486/thumb/material-tailwind-kit-react.jpg)](http://demos.creative-tim.com/material-tailwind-kit-react/#/?ref=readme-mtkr)
 
 ## Demo
 
@@ -86,7 +86,7 @@ Quick start options:
 
 ## Documentation
 
-The documentation for the Material Tailwind Kit React is hosted at our [website](https://material-tailwind.com/?ref=readme-mtkr).
+The documentation for the Service Group Kit React is hosted at our [website](https://material-tailwind.com/?ref=readme-mtkr).
 
 ### What's included
 
@@ -136,9 +136,9 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Material Tailwind Kit React. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Service Group Kit React. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Tailwind Kit React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=readme-mtkr).
+1. Make sure that you are using the latest version of the Service Group Kit React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-tailwind-kit-react?ref=readme-mtkr).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 

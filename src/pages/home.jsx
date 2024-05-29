@@ -15,26 +15,27 @@ import { PageTitle, Footer } from "@/widgets/layout";
 import { FeatureCard, TeamCard } from "@/widgets/cards";
 import { featuresData, teamData, contactData } from "@/data";
 
+/*bg-[url('/img/background-2.jpg')]*/
+/* bg-black  opacity-70/60*/
 export function Home() {
   return (
     <>
       <div className="relative flex h-screen content-center items-center justify-center pt-16 pb-32">
-        <div className="absolute top-0 h-full w-full bg-[url('/img/background-3.png')] bg-cover bg-center" />
-        <div className="absolute top-0 h-full w-full bg-black/60 bg-cover bg-center" />
-        <div className="max-w-8xl container relative mx-auto">
-          <div className="flex flex-wrap items-center">
-            <div className="ml-auto mr-auto w-full px-4 text-center lg:w-8/12">
+        <div className="absolute top-0 h-full w-full   bg-cover bg-center " />
+        <div className="absolute top-0 h-full w-full  bg-[url('/img/IA-2.jpg')] bg-cover bg-center " />
+        <div className="max-w-8xl  relative mx-auto  p-10">
+          <div className="flex flex-wrap items-center  ">
+            <div className="ml-auto mr-auto w-full px-4 text-center  rounded-lg p-4 transparent lg:w-8/12">
               <Typography
                 variant="h1"
-                color="white"
-                className="mb-6 font-black"
+                style={{ color: '#996C28' }}
+                className="mb-6 font-black text-right"
               >
-                Your story starts with us.
+                Soluciones <br />
+                Técnologicas
               </Typography>
-              <Typography variant="lead" color="white" className="opacity-80">
-                This is a simple example of a Landing Page you can build using
-                Material Tailwind. It features multiple components based on the
-                Tailwind CSS and Material Design by Google.
+              <Typography variant="lead" className=" bg-white/80  p-4 text-base text-slate-600	 text-right">
+              En Service Group, somos un equipo de expertos apasionados por la tecnología y comprometidos con la excelencia. Con experiencia en el sector, nos especializamos en proporcionar soluciones tecnológicas integrales que ayudan a las empresas a crecer y evolucionar en un mundo digital en constante cambio.
               </Typography>
             </div>
           </div>
@@ -42,9 +43,10 @@ export function Home() {
       </div>
       <section className="-mt-32 bg-white px-4 pb-20 pt-4">
         <div className="container mx-auto">
-          <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+          <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3 ">
             {featuresData.map(({ color, title, icon, description }) => (
               <FeatureCard
+              
                 key={title}
                 color={color}
                 title={title}
@@ -165,15 +167,15 @@ export function Home() {
               </Card>
             ))}
           </div>
-          <PageTitle section="Contact Us" heading="Want to work with us?">
-            Complete this form and we will get back to you in 24 hours.
+          <PageTitle section="Contactanos" heading="¿Quieres trabajar con nosotros?">
+            Esteremos encantados de escuchar de ti. Envíanos un mensaje y te responderemos lo antes posible.
           </PageTitle>
           <form className="mx-auto w-full mt-12 lg:w-5/12">
             <div className="mb-8 flex gap-8">
-              <Input variant="outlined" size="lg" label="Full Name" />
-              <Input variant="outlined" size="lg" label="Email Address" />
+              <Input variant="outlined" size="lg" label="Nombre Completo" />
+              <Input variant="outlined" size="lg" label="Email" />
             </div>
-            <Textarea variant="outlined" size="lg" label="Message" rows={8} />
+            <Textarea variant="outlined" size="lg" label="Mensaje" rows={8} />
             <Checkbox
               label={
                 <Typography
